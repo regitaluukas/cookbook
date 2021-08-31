@@ -2,7 +2,6 @@
 
 /*HEADER*/
 
-
 header .header-banner {
     width: 100%;
     background-position: center;
@@ -20,7 +19,6 @@ header h1 {
 
     }
 
-    
 header h2 {
     font-family: "Open Sans", sans-serif;
     font-style: italic;
@@ -290,7 +288,7 @@ footer ul li a {
         margin-left: 80px;
         height: auto;
         background-repeat: no-repeat;
-        
+
     }
 
 
