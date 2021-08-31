@@ -309,10 +309,12 @@ footer ul li a {
         -moz-transition: 0.5s linear;
         -o-transition: 0.5s linear;
         transition: 0.5s linear;
+        
     }
 
     .container:hover .post-header {
         opacity: 1;
+
     }
      
 }
