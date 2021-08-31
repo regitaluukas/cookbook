@@ -2,6 +2,7 @@
 
 /*HEADER*/
 
+
 header .header-banner {
     width: 100%;
     background-position: center;
@@ -19,6 +20,7 @@ header h1 {
 
     }
 
+    
 header h2 {
     font-family: "Open Sans", sans-serif;
     font-style: italic;
@@ -276,7 +278,7 @@ footer ul li a {
 
     .index-header .introduction {
         float: left;
-        width: 50%;
+        width: 40%;
         line-height: 1.2;
 
     }
@@ -288,9 +290,7 @@ footer ul li a {
         margin-left: 80px;
         height: auto;
         background-repeat: no-repeat;
-
     }
-
 
     nav ul li a {
         font-size: 24px;
@@ -310,12 +310,10 @@ footer ul li a {
         -moz-transition: 0.5s linear;
         -o-transition: 0.5s linear;
         transition: 0.5s linear;
-
     }
 
     .container:hover .post-header {
         opacity: 1;
-
     }
      
 }
