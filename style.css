@@ -286,10 +286,13 @@ footer ul li a {
     .index-header img {
         float: left;
         display: block;
-        width: 420px;
-        margin-left: 60px;
-
+        width: 45%;
+        margin-left: 80px;
+        height: auto;
+        background-repeat: no-repeat;
+        
     }
+
 
     nav ul li a {
         font-size: 24px;
@@ -309,7 +312,7 @@ footer ul li a {
         -moz-transition: 0.5s linear;
         -o-transition: 0.5s linear;
         transition: 0.5s linear;
-        
+
     }
 
     .container:hover .post-header {
